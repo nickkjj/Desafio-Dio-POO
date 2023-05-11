@@ -1,6 +1,6 @@
 <h1>Desafio: Aprendendo na Prática Programação Orientada a Objetos</h1>
 <div></div>
-<p>O objetivo principal do desafio é colocar em prática técnicas de Programação Orientada a objeto, como ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.</p>
+<p>O objetivo principal do desafio é colocar em prática conceitos de Programação Orientada a objeto, como ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.</p>
 <div></div>
 
 <h3>ABSTRAÇÃO:</h3>
